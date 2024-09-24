@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(63, 46, 94);
+    font: normal 15pt arial;
+    padding: 0px 20px;
+    height: 92vh;
+    align-content: center;
+}
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.538);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+h1 {
+    font-size: 30px;
+}
+#botao {
+    margin-top: 15px;
+}
+#campo-erro {
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+    font-size: 15px;
+}
+select {
+    width: 100%;
+}
